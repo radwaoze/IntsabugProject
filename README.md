@@ -1,4 +1,4 @@
-    IntsabugProject
+Instabug Login Task
 --------------------------------------------------------------------------------------------
 
 Automate different Login scenarios on this website https://www.saucedemo.com/ 
