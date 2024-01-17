@@ -1,3 +1,6 @@
+    IntsabugProject
+--------------------------------------------------------------------------------------------
+
 Automate different Login scenarios on this website https://www.saucedemo.com/ 
 using Selenium java, Maven, TestNG, POM, Properties File, Cucumber
 
